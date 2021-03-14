@@ -1,4 +1,4 @@
 node_modules
-zokrates/code/square/*
-!zokrates/code/square/square.code
+# zokrates/code/square/*
+# !zokrates/code/square/square.code
 eth-contracts/build
