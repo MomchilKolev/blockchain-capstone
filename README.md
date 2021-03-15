@@ -16,6 +16,9 @@ The capstone will build upon the knowledge you have gained in the course in orde
 
 6. Run `truffle test` // Everything should pass
 
+// If you get 'Error: Verifier has not been deployed to detected network (network/artifact mismatch)'
+// go to 2_deploy_contracts and uncomment the Verifier contract deployment (line 9)
+
 # Live
 
 - SolnSquareVerifier - 0x626fa9770E61fa38083e74107bc3945A73E0feB1 on rinkeby
