@@ -7,6 +7,4 @@ var ERC721Mintable = artifacts.require("./CustomERC721Token.sol");
 module.exports = function(deployer) {
   // deployer.deploy(SquareVerifier);
   deployer.deploy(SolnSquareVerifier);
-  deployer.deploy(ERC721Mintable);
-  deployer.deploy(Verifier);
 };
